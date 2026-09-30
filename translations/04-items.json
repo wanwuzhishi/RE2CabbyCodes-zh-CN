@@ -1,0 +1,711 @@
+{
+  "167088": {
+    "en": "High-Capacity Mag. (Matilda)",
+    "zh": "大容量弹匣 (玛蒂尔达)"
+  },
+  "167129": {
+    "en": "Reinforced Frame (SLS 60)",
+    "zh": "强化枪身 (SLS 60)"
+  },
+  "167172": {
+    "en": "Shotgun Stock (W-870)",
+    "zh": "霰弹枪枪托 (W-870)"
+  },
+  "167191": {
+    "en": "Long Barrel (W-870)",
+    "zh": "长枪管 (W-870)"
+  },
+  "167200": {
+    "en": "Red Dot Sight (Lightning Hawk)",
+    "zh": "红点瞄准镜 (闪电鹰)"
+  },
+  "167228": {
+    "en": "Long Barrel (Lightning Hawk)",
+    "zh": "长枪管 (闪电鹰)"
+  },
+  "167257": {
+    "en": "Shoulder Stock (GM 79)",
+    "zh": "肩托 (GM 79)"
+  },
+  "167277": {
+    "en": "Regulator (Flamethrower)",
+    "zh": "调节器 (火焰喷射器)"
+  },
+  "167304": {
+    "en": "Film: \"Hiding Place\"",
+    "zh": "影片：\"藏身之处\""
+  },
+  "167320": {
+    "en": "Film: \"Hiding Place\" (Roll Film)",
+    "zh": "影片：\"藏身之处\" (胶卷)"
+  },
+  "167360": {
+    "en": "Film: \"Rising Rookie\" (Roll Film)",
+    "zh": "影片：\"新星警员\" (胶卷)"
+  },
+  "167420": {
+    "en": "Film: \"Lion Statue\" (Roll Film)",
+    "zh": "影片：\"狮子雕像\" (胶卷)"
+  },
+  "167449": {
+    "en": "Key",
+    "zh": "钥匙"
+  },
+  "167487": {
+    "en": "Tool",
+    "zh": "工具"
+  },
+  "167515": {
+    "en": "Spade Key (Key)",
+    "zh": "黑桃钥匙 (钥匙)"
+  },
+  "167558": {
+    "en": "Weapons Locker Key Card",
+    "zh": "武器柜门禁卡"
+  },
+  "167570": {
+    "en": "Weapons Locker Key Card (Key Card)",
+    "zh": "武器柜门禁卡 (门禁卡)"
+  },
+  "167618": {
+    "en": "Red Jewel",
+    "zh": "红宝石"
+  },
+  "167663": {
+    "en": "Electronic Part",
+    "zh": "电子零件"
+  },
+  "167673": {
+    "en": "Bishop Plug",
+    "zh": "主教插头"
+  },
+  "167716": {
+    "en": "Block",
+    "zh": "方块"
+  },
+  "167764": {
+    "en": "USB Dongle Key",
+    "zh": "USB 加密狗钥匙"
+  },
+  "167814": {
+    "en": "Red Book (Art Object)",
+    "zh": "红书 (艺术品)"
+  },
+  "167830": {
+    "en": "Red Book (Art Object) (Red Book)",
+    "zh": "红书 (艺术品) (红书)"
+  },
+  "167875": {
+    "en": "Left Arm with Book",
+    "zh": "带书的左臂"
+  },
+  "167913": {
+    "en": "Maiden Medallion",
+    "zh": "少女徽章"
+  },
+  "167936": {
+    "en": "Power Panel Part",
+    "zh": "配电盘零件"
+  },
+  "167948": {
+    "en": "Power Panel Part (Electronic Part)",
+    "zh": "配电盘零件 (电子零件)"
+  },
+  "167978": {
+    "en": "Power Panel Part (Electronic Part) (sm73_148)",
+    "zh": "配电盘零件 (电子零件) (sm73_148)"
+  },
+  "168008": {
+    "en": "ID Wristband (Visitor) (ID Wristband) (sm73_435)",
+    "zh": "ID 腕带（访客）(ID 腕带) (sm73_435)"
+  },
+  "168048": {
+    "en": "ID Wristband (General Staff) (sm73_436)",
+    "zh": "ID 腕带（普通职员）(sm73_436)"
+  },
+  "168080": {
+    "en": "ID Wristband (Senior Staff) (sm73_437)",
+    "zh": "ID 腕带（高级职员）(sm73_437)"
+  },
+  "168222": {
+    "en": "Electrical Part",
+    "zh": "电气零件"
+  },
+  "168232": {
+    "en": "Fuse (Main Hall)",
+    "zh": "保险丝（主大厅）"
+  },
+  "168248": {
+    "en": "Fuse (Main Hall) (Electrical Part)",
+    "zh": "保险丝（主大厅）(电气零件)"
+  },
+  "168274": {
+    "en": "Fuse (Break Room Hallway)",
+    "zh": "保险丝（休息室走廊）"
+  },
+  "168290": {
+    "en": "Fuse (Break Room Hallway) (Electrical Part)",
+    "zh": "保险丝（休息室走廊）(电气零件)"
+  },
+  "168360": {
+    "en": "Police Station 1F Map",
+    "zh": "警察局 1F 地图"
+  },
+  "168428": {
+    "en": "Police Station Upper Floors Map",
+    "zh": "警察局上层地图"
+  },
+  "168451": {
+    "en": "Hip Pouch",
+    "zh": "腰包"
+  },
+  "168560": {
+    "en": "Portable Safe",
+    "zh": "便携保险箱"
+  },
+  "168580": {
+    "en": "Tin Storage Box",
+    "zh": "铁皮收纳箱"
+  },
+  "168590": {
+    "en": "Tin Storage Box (Box)",
+    "zh": "铁皮收纳箱 (盒子)"
+  },
+  "182538": {
+    "en": "Acid Rounds",
+    "zh": "硫酸弹"
+  },
+  "_comment": "RE2CabbyCodes 1.0.6 汉化词条 - 物品名称表",
+  "166d9a": {
+    "en": "Green Herb (sm70_051)",
+    "zh": "绿色草药 (sm70_051)"
+  },
+  "166db9": {
+    "en": "Red Herb (sm70_052)",
+    "zh": "红色草药 (sm70_052)"
+  },
+  "166dd6": {
+    "en": "Blue Herb (sm70_053)",
+    "zh": "蓝色草药 (sm70_053)"
+  },
+  "166df4": {
+    "en": "Handgun Ammo",
+    "zh": "手枪子弹"
+  },
+  "166e0a": {
+    "en": "Shotgun Shells",
+    "zh": "霰弹枪子弹"
+  },
+  "166e22": {
+    "en": "Submachine Gun Ammo",
+    "zh": "冲锋枪子弹"
+  },
+  "166e3f": {
+    "en": "MAG Ammo",
+    "zh": "马格南子弹"
+  },
+  "166e6c": {
+    "en": "Acid Rounds",
+    "zh": "硫酸弹"
+  },
+  "166e81": {
+    "en": "Flame Rounds",
+    "zh": "燃烧弹"
+  },
+  "1821ef": {
+    "en": "Flame Rounds",
+    "zh": "燃烧弹"
+  },
+  "166e97": {
+    "en": "Needle Cartridges",
+    "zh": "针弹"
+  },
+  "166eb2": {
+    "en": "Fuel",
+    "zh": "燃料"
+  },
+  "166ec0": {
+    "en": "Large-caliber Handgun Ammo",
+    "zh": "大口径手枪子弹"
+  },
+  "166ee4": {
+    "en": "High-Powered Rounds (SLS 60)",
+    "zh": "高威力子弹 (SLS 60)"
+  },
+  "166f25": {
+    "en": "Detonator",
+    "zh": "引爆器"
+  },
+  "166f2f": {
+    "en": "Ink Ribbon",
+    "zh": "色带"
+  },
+  "166f3a": {
+    "en": "Wooden Boards",
+    "zh": "木板"
+  },
+  "166f51": {
+    "en": "Electronic Gadget",
+    "zh": "电子装置"
+  },
+  "166f63": {
+    "en": "Detonator (No Battery)",
+    "zh": "引爆器（无电池）"
+  },
+  "166f80": {
+    "en": "Detonator (No Battery) (Electronic Gadget)",
+    "zh": "引爆器（无电池）（电子装置）"
+  },
+  "166fb4": {
+    "en": "Battery",
+    "zh": "电池"
+  },
+  "166fc5": {
+    "en": "Gunpowder",
+    "zh": "火药"
+  },
+  "166fd8": {
+    "en": "Gunpowder (Large)",
+    "zh": "火药（大）"
+  },
+  "166ff3": {
+    "en": "High-Grade Gunpowder (Yellow)",
+    "zh": "高级火药（黄）"
+  },
+  "16701a": {
+    "en": "High-Grade Gunpowder (White)",
+    "zh": "高级火药（白）"
+  },
+  "1670ae": {
+    "en": "Muzzle Brake (Matilda)",
+    "zh": "枪口制退器 (玛蒂尔达)"
+  },
+  "1670ce": {
+    "en": "Gun Stock (Matilda)",
+    "zh": "枪托 (玛蒂尔达)"
+  },
+  "1670eb": {
+    "en": "Speed Loader (SLS 60)",
+    "zh": "快速装弹器 (SLS 60)"
+  },
+  "16710a": {
+    "en": "Laser Sight (JMB Hp3)",
+    "zh": "激光瞄准器 (JMB Hp3)"
+  },
+  "16714c": {
+    "en": "High-Capacity Mag. (JMB Hp3)",
+    "zh": "大容量弹匣 (JMB Hp3)"
+  },
+  "1671b7": {
+    "en": "High-Capacity Mag. (MQ 11)",
+    "zh": "大容量弹匣 (MQ 11)"
+  },
+  "1671e4": {
+    "en": "Suppressor (MQ 11)",
+    "zh": "消音器 (MQ 11)"
+  },
+  "1672a0": {
+    "en": "High Voltage Condenser (Spark Shot)",
+    "zh": "高压电容器 (电击枪)"
+  },
+  "1672fa": {
+    "en": "Roll Film",
+    "zh": "胶卷"
+  },
+  "16734a": {
+    "en": "Film: \"Rising Rookie\"",
+    "zh": "影片：\"新星警员\""
+  },
+  "16738b": {
+    "en": "Film: \"Commemorative\"",
+    "zh": "影片：\"纪念\""
+  },
+  "1673a8": {
+    "en": "Film: \"Commemorative\" (Roll Film)",
+    "zh": "影片：\"纪念\" (胶卷)"
+  },
+  "1673d3": {
+    "en": "Film: \"3F Locker\"",
+    "zh": "影片：\"3F 储物柜\""
+  },
+  "1673e5": {
+    "en": "Film: \"3F Locker\" (Roll Film)",
+    "zh": "影片：\"3F 储物柜\" (胶卷)"
+  },
+  "16740c": {
+    "en": "Film: \"Lion Statue\"",
+    "zh": "影片：\"狮子雕像\""
+  },
+  "16744d": {
+    "en": "Storage Room Key",
+    "zh": "储藏室钥匙"
+  },
+  "16745e": {
+    "en": "Storage Room Key (Key)",
+    "zh": "储藏室钥匙 (钥匙)"
+  },
+  "16748c": {
+    "en": "Mechanic Jack Handle",
+    "zh": "机械千斤顶手柄"
+  },
+  "1674a1": {
+    "en": "Mechanic Jack Handle (Tool)",
+    "zh": "机械千斤顶手柄 (工具)"
+  },
+  "1674c6": {
+    "en": "Square Crank",
+    "zh": "方形曲柄"
+  },
+  "1674d3": {
+    "en": "Square Crank (Tool)",
+    "zh": "方形曲柄 (工具)"
+  },
+  "1674f0": {
+    "en": "Unicorn Medallion",
+    "zh": "独角兽徽章"
+  },
+  "16750b": {
+    "en": "Spade Key",
+    "zh": "黑桃钥匙"
+  },
+  "16752e": {
+    "en": "Parking Garage Key Card",
+    "zh": "停车场门禁卡"
+  },
+  "16754f": {
+    "en": "Key Card",
+    "zh": "门禁卡"
+  },
+  "1675a5": {
+    "en": "Round Handle",
+    "zh": "圆形把手"
+  },
+  "1675b2": {
+    "en": "Valve Handle",
+    "zh": "阀门把手"
+  },
+  "1675bf": {
+    "en": "Valve Handle (Round Handle)",
+    "zh": "阀门把手 (圆形把手)"
+  },
+  "1675e4": {
+    "en": "S.T.A.R.S. Badge",
+    "zh": "S.T.A.R.S. 徽章"
+  },
+  "1675fe": {
+    "en": "Scepter",
+    "zh": "权杖"
+  },
+  "16762b": {
+    "en": "Box",
+    "zh": "盒子"
+  },
+  "16762f": {
+    "en": "Bejeweled Box",
+    "zh": "珠宝盒"
+  },
+  "16763d": {
+    "en": "Bejeweled Box (Box)",
+    "zh": "珠宝盒 (盒子)"
+  },
+  "16767f": {
+    "en": "Bishop Plug (Electronic Part)",
+    "zh": "主教插头 (电子零件)"
+  },
+  "1676a6": {
+    "en": "Rook Plug",
+    "zh": "车插头"
+  },
+  "1676b0": {
+    "en": "Rook Plug (Electronic Part)",
+    "zh": "车插头 (电子零件)"
+  },
+  "1676d5": {
+    "en": "King Plug",
+    "zh": "王插头"
+  },
+  "1676df": {
+    "en": "King Plug (Electronic Part)",
+    "zh": "王插头 (电子零件)"
+  },
+  "16771c": {
+    "en": "Picture Block",
+    "zh": "拼图方块"
+  },
+  "16772a": {
+    "en": "Picture Block (Block)",
+    "zh": "拼图方块 (方块)"
+  },
+  "1677cd": {
+    "en": "Spare Part",
+    "zh": "备用零件"
+  },
+  "1677d8": {
+    "en": "Spare Key",
+    "zh": "备用钥匙"
+  },
+  "1677e2": {
+    "en": "Spare Key (Spare Part)",
+    "zh": "备用钥匙 (备用零件)"
+  },
+  "16780b": {
+    "en": "Red Book",
+    "zh": "红书"
+  },
+  "16785a": {
+    "en": "Statue's Left Arm",
+    "zh": "雕像的左臂"
+  },
+  "16789a": {
+    "en": "Lion Medallion",
+    "zh": "狮子徽章"
+  },
+  "1678b2": {
+    "en": "Diamond Key",
+    "zh": "钻石钥匙"
+  },
+  "1678be": {
+    "en": "Diamond Key (Key)",
+    "zh": "钻石钥匙 (钥匙)"
+  },
+  "1678d9": {
+    "en": "Car Key",
+    "zh": "车钥匙"
+  },
+  "1678e1": {
+    "en": "Car Key (Key)",
+    "zh": "车钥匙 (钥匙)"
+  },
+  "1679af": {
+    "en": "Relief",
+    "zh": "浮雕"
+  },
+  "1679b6": {
+    "en": "Lovers Relief",
+    "zh": "恋人浮雕"
+  },
+  "1679c4": {
+    "en": "Lovers Relief (Relief)",
+    "zh": "恋人浮雕 (浮雕)"
+  },
+  "1679e4": {
+    "en": "Small Gear",
+    "zh": "小齿轮"
+  },
+  "1679f8": {
+    "en": "Large Gear",
+    "zh": "大齿轮"
+  },
+  "167a0c": {
+    "en": "Courtyard Key",
+    "zh": "中庭钥匙"
+  },
+  "167a23": {
+    "en": "Knight Plug",
+    "zh": "骑士插头"
+  },
+  "167a2f": {
+    "en": "Knight Plug (Electronic Part)",
+    "zh": "骑士插头 (电子零件)"
+  },
+  "167a56": {
+    "en": "Pawn Plug",
+    "zh": "兵插头"
+  },
+  "167a60": {
+    "en": "Pawn Plug (Electronic Part)",
+    "zh": "兵插头 (电子零件)"
+  },
+  "167a85": {
+    "en": "Queen Plug",
+    "zh": "后插头"
+  },
+  "167a90": {
+    "en": "Queen Plug (Electronic Part)",
+    "zh": "后插头 (电子零件)"
+  },
+  "167ab6": {
+    "en": "Boxed Electronic Part",
+    "zh": "盒装电子零件"
+  },
+  "167ad8": {
+    "en": "Boxed Electronic Part (sm73_158)",
+    "zh": "盒装电子零件 (sm73_158)"
+  },
+  "167bc8": {
+    "en": "Orphanage Key",
+    "zh": "孤儿院钥匙"
+  },
+  "167bdf": {
+    "en": "Club Key",
+    "zh": "梅花钥匙"
+  },
+  "167be8": {
+    "en": "Club Key (Key)",
+    "zh": "梅花钥匙 (钥匙)"
+  },
+  "167c48": {
+    "en": "Heart Key",
+    "zh": "红桃钥匙"
+  },
+  "167c52": {
+    "en": "Heart Key (Key)",
+    "zh": "红桃钥匙 (钥匙)"
+  },
+  "167c6b": {
+    "en": "U.S.S. Digital Video Cassette",
+    "zh": "U.S.S. 数字录像带"
+  },
+  "167cbf": {
+    "en": "T-Bar Valve Handle",
+    "zh": "T 形阀门把手"
+  },
+  "167cd2": {
+    "en": "T-Bar Valve Handle (Tool)",
+    "zh": "T 形阀门把手 (工具)"
+  },
+  "167d07": {
+    "en": "Dispersal Cartridge",
+    "zh": "散布装置"
+  },
+  "167d1b": {
+    "en": "Dispersal Cartridge (Empty)",
+    "zh": "散布装置（空）"
+  },
+  "167d38": {
+    "en": "Dispersal Cartridge (Empty) (Dispersal Cartridge)",
+    "zh": "散布装置（空）(散布装置)"
+  },
+  "167d78": {
+    "en": "Dispersal Cartridge (Solution)",
+    "zh": "散布装置（溶液）"
+  },
+  "167da0": {
+    "en": "Dispersal Cartridge (Herbicide)",
+    "zh": "散布装置（除草剂）"
+  },
+  "167dd2": {
+    "en": "Joint Plug",
+    "zh": "连接插头"
+  },
+  "167df8": {
+    "en": "Upgrade Chip (Admin)",
+    "zh": "升级芯片（管理员）"
+  },
+  "167e16": {
+    "en": "ID Wristband (Admin)",
+    "zh": "ID 腕带（管理员）"
+  },
+  "167e3d": {
+    "en": "Signal Modulator",
+    "zh": "信号调制器"
+  },
+  "167e60": {
+    "en": "Trophy",
+    "zh": "奖杯"
+  },
+  "167e82": {
+    "en": "Sewers Key",
+    "zh": "下水道钥匙"
+  },
+  "167e8d": {
+    "en": "Sewers Key (Key)",
+    "zh": "下水道钥匙 (钥匙)"
+  },
+  "167ea7": {
+    "en": "ID Wristband",
+    "zh": "ID 腕带"
+  },
+  "167eb4": {
+    "en": "ID Wristband (Visitor)",
+    "zh": "ID 腕带（访客）"
+  },
+  "167ed0": {
+    "en": "ID Wristband (Visitor) (ID Wristband)",
+    "zh": "ID 腕带（访客）(ID 腕带)"
+  },
+  "167eff": {
+    "en": "ID Wristband (General Staff)",
+    "zh": "ID 腕带（普通职员）"
+  },
+  "167f25": {
+    "en": "ID Wristband (Senior Staff)",
+    "zh": "ID 腕带（高级职员）"
+  },
+  "167f4a": {
+    "en": "Electronic Chip",
+    "zh": "电子芯片"
+  },
+  "167f5a": {
+    "en": "Upgrade Chip (General Staff)",
+    "zh": "升级芯片（普通职员）"
+  },
+  "167f78": {
+    "en": "Upgrade Chip (General Staff) (Electronic Chip)",
+    "zh": "升级芯片（普通职员）(电子芯片)"
+  },
+  "167fb0": {
+    "en": "Upgrade Chip (Senior Staff)",
+    "zh": "升级芯片（高级职员）"
+  },
+  "167fd0": {
+    "en": "Upgrade Chip (Senior Staff) (Electronic Chip)",
+    "zh": "升级芯片（高级职员）(电子芯片)"
+  },
+  "1680b0": {
+    "en": "Lab Digital Video Cassette",
+    "zh": "实验室数字录像带"
+  },
+  "1681be": {
+    "en": "Briefcase",
+    "zh": "公文包"
+  },
+  "1682ce": {
+    "en": "Scissors",
+    "zh": "剪刀"
+  },
+  "1682e0": {
+    "en": "Cutting Tool",
+    "zh": "切割工具"
+  },
+  "1682ed": {
+    "en": "Bolt Cutter",
+    "zh": "断线钳"
+  },
+  "1682f9": {
+    "en": "Bolt Cutter (Cutting Tool)",
+    "zh": "断线钳 (切割工具)"
+  },
+  "16831d": {
+    "en": "Stuffed Doll",
+    "zh": "布娃娃"
+  },
+  "16837f": {
+    "en": "Police Station B1 Map",
+    "zh": "警察局 B1 地图"
+  },
+  "1683a7": {
+    "en": "Sewers Map",
+    "zh": "下水道地图"
+  },
+  "1683cd": {
+    "en": "Research Lab North Area Map",
+    "zh": "研究实验室北区地图"
+  },
+  "1683f2": {
+    "en": "Research Lab East Area Map",
+    "zh": "研究实验室东区地图"
+  },
+  "1685af": {
+    "en": "Wooden Box",
+    "zh": "木箱"
+  },
+  "1685c3": {
+    "en": "Wooden Box (sm77_006)",
+    "zh": "木箱 (sm77_006)"
+  },
+  "1685e8": {
+    "en": "Tin Storage Box (Box) (sm77_007)",
+    "zh": "铁皮收纳箱 (盒子) (sm77_007)"
+  }
+}

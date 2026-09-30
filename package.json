@@ -1,0 +1,14 @@
+{
+  "name": "re2-cabbycodes-zh-cn",
+  "version": "1.0.6",
+  "description": "RE2CabbyCodes 的简体中文汉化补丁（二进制补丁工具 + 译文表）",
+  "private": true,
+  "bin": { "re2-cabbycodes-zh-cn": "patch.js" },
+  "scripts": {
+    "build": "node patch.js",
+    "check": "node patch.js --dry-run",
+    "list": "node patch.js --list"
+  },
+  "engines": { "node": ">=18" },
+  "license": "GPL-3.0-or-later"
+}

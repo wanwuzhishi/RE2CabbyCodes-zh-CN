@@ -1,0 +1,364 @@
+{
+  "160943": {
+    "en": "One hit kills",
+    "zh": "一击必杀"
+  },
+  "160951": {
+    "en": "Infinite ammo",
+    "zh": "无限弹药"
+  },
+  "160978": {
+    "en": "Save without counting",
+    "zh": "存档不计次"
+  },
+  "168650": {
+    "en": "hooked",
+    "zh": "已挂钩"
+  },
+  "168657": {
+    "en": "NOT FOUND",
+    "zh": "未找到"
+  },
+  "168726": {
+    "en": "weapon %d",
+    "zh": "武器 %d"
+  },
+  "168730": {
+    "en": "item %d",
+    "zh": "道具 %d"
+  },
+  "168738": {
+    "en": "the inventory's slot numbers do not add up (see the log)",
+    "zh": "背包的格子编号对不上（见日志）"
+  },
+  "168778": {
+    "en": "the item box has no empty entry, and a weapon is made in one - throw something away first",
+    "zh": "道具箱没有空格子，而武器需要在其中生成——请先丢弃一些东西"
+  },
+  "168838": {
+    "en": ", and what was there could not be put back - the slot is empty",
+    "zh": "，且原有内容无法放回——该格子已空"
+  },
+  "168878": {
+    "en": "%s takes two slots side by side - the inventory has no such room",
+    "zh": "%s 需要相邻的两个格子——背包没有这样的空间"
+  },
+  "168945": {
+    "en": "item box entry",
+    "zh": "道具箱格子"
+  },
+  "168958": {
+    "en": "changes are only made while the pause menu is up",
+    "zh": "只有在暂停菜单打开时才能做更改"
+  },
+  "168990": {
+    "en": "the inventory cannot be read right now",
+    "zh": "当前无法读取背包"
+  },
+  "169048": {
+    "en": "%s could not be copied into the item box - nothing was moved",
+    "zh": "无法把 %s 复制进道具箱——未移动任何东西"
+  },
+  "169088": {
+    "en": "%s is in the item box, but the inventory could not be read back - check slot %d",
+    "zh": "%s 已存入道具箱，但无法回读背包——请检查格子 %d"
+  },
+  "169110": {
+    "en": "slot %d could not be emptied - nothing was moved",
+    "zh": "无法清空格子 %d——未移动任何东西"
+  },
+  "169148": {
+    "en": "stored %s x%d from slot %d in the item box",
+    "zh": "已将 %s x%d 从格子 %d 存入道具箱"
+  },
+  "169178": {
+    "en": "stored %s x%d from slot %d in the item box, on the stacks it held",
+    "zh": "已将 %s x%d 从格子 %d 存入道具箱中原有的堆叠"
+  },
+  "169218": {
+    "en": "the item box changed before the throw-away - nothing was changed",
+    "zh": "道具箱在丢弃前发生了变化——未做任何更改"
+  },
+  "169260": {
+    "en": "the item box entry could not be emptied",
+    "zh": "无法清空该道具箱格子"
+  },
+  "169288": {
+    "en": "threw %s away from the item box",
+    "zh": "已从道具箱丢弃 %s"
+  },
+  "16e798": {
+    "en": "One hit kills",
+    "zh": "一击必杀"
+  },
+  "16e88b": {
+    "en": "Infinite ammo",
+    "zh": "无限弹药"
+  },
+  "16ecdc": {
+    "en": "Save without counting",
+    "zh": "存档不计次"
+  },
+  "_comment": "RE2CabbyCodes 1.0.6 汉化词条 - 作弊项名称 / 难度 / 面板状态",
+  "_format": "RVA(十六进制) : { en: 原文(用于校验), zh: 中文 }",
+  "16093a": {
+    "en": "God mode",
+    "zh": "上帝模式"
+  },
+  "16e523": {
+    "en": "God mode",
+    "zh": "上帝模式"
+  },
+  "16095f": {
+    "en": "Save without ink ribbons",
+    "zh": "免色带存档"
+  },
+  "16ebf7": {
+    "en": "Save without ink ribbons",
+    "zh": "免色带存档"
+  },
+  "16098e": {
+    "en": "Freeze play time",
+    "zh": "冻结游戏时间"
+  },
+  "16ef3a": {
+    "en": "Freeze play time",
+    "zh": "冻结游戏时间"
+  },
+  "16099f": {
+    "en": "Freeze countdown timer",
+    "zh": "冻结倒计时"
+  },
+  "16f020": {
+    "en": "Freeze countdown timer",
+    "zh": "冻结倒计时"
+  },
+  "1609b6": {
+    "en": "No durability loss",
+    "zh": "小刀不磨损"
+  },
+  "16e9c1": {
+    "en": "No durability loss",
+    "zh": "小刀不磨损"
+  },
+  "1609c9": {
+    "en": "Infinite wooden boards",
+    "zh": "无限木板"
+  },
+  "16eac6": {
+    "en": "Infinite wooden boards",
+    "zh": "无限木板"
+  },
+  "1609e0": {
+    "en": "Item box without counting",
+    "zh": "开箱不计次"
+  },
+  "16f145": {
+    "en": "Item box without counting",
+    "zh": "开箱不计次"
+  },
+  "160a00": {
+    "en": "Recovery items without counting",
+    "zh": "用药不计次"
+  },
+  "16f2d0": {
+    "en": "Recovery items without counting",
+    "zh": "用药不计次"
+  },
+  "160a20": {
+    "en": "Freeze step count",
+    "zh": "冻结步数"
+  },
+  "16f401": {
+    "en": "Freeze step count",
+    "zh": "冻结步数"
+  },
+  "1657e0": {
+    "en": "Assisted",
+    "zh": "辅助"
+  },
+  "1657e9": {
+    "en": "Standard",
+    "zh": "标准"
+  },
+  "1657f2": {
+    "en": "Hardcore",
+    "zh": "专家"
+  },
+  "1657ff": {
+    "en": " [second half]",
+    "zh": "（后半格）"
+  },
+  "16580e": {
+    "en": " [two slots]",
+    "zh": "（占两格）"
+  },
+  "16581b": {
+    "en": " [force blank]",
+    "zh": "（游戏保留为空）"
+  },
+  "16871e": {
+    "en": "(empty)",
+    "zh": "（空）"
+  },
+  "16cbd2": {
+    "en": "(empty)",
+    "zh": "（空）"
+  },
+  "1687d8": {
+    "en": "the item box cannot be read right now, and a weapon is made in it",
+    "zh": "道具箱当前无法读取，而武器需要在其中生成"
+  },
+  "16c620": {
+    "en": "the item box cannot be read right now, and a weapon is made in it",
+    "zh": "道具箱当前无法读取，而武器需要在其中生成"
+  },
+  "16881a": {
+    "en": " - nothing was changed",
+    "zh": "——未做任何更改"
+  },
+  "1688c0": {
+    "en": "the inventory has no free slot for %s",
+    "zh": "背包没有空格子容纳 %s"
+  },
+  "1688e6": {
+    "en": "slot",
+    "zh": "格子"
+  },
+  "16cad7": {
+    "en": "slot",
+    "zh": "格子"
+  },
+  "1688f0": {
+    "en": "%s %d: %s recorded no ammo type (a weapon an earlier build made) - it takes %s again",
+    "zh": "%s %d：%s 没有记录弹药类型（早期版本生成的武器）——现已恢复为 %s"
+  },
+  "1689b8": {
+    "en": "slot %d is not one the player has",
+    "zh": "格子 %d 不属于玩家拥有"
+  },
+  "1689e0": {
+    "en": "slot %d changed before the edit could be made - nothing was changed",
+    "zh": "格子 %d 在编辑完成前发生了变化——未做任何更改"
+  },
+  "168a28": {
+    "en": "slot %d is the second half of a two-slot item",
+    "zh": "格子 %d 是双格物品的后半格"
+  },
+  "168a58": {
+    "en": "the game keeps slot %d blank right now",
+    "zh": "游戏当前将格子 %d 保留为空"
+  },
+  "168a88": {
+    "en": "a weapon needs the game's own inventory functions, and they are not available: %s",
+    "zh": "武器需要调用游戏自身的背包函数，但它们不可用：%s"
+  },
+  "168ae0": {
+    "en": "slot %d's item is numbered %d by the game - nothing was changed",
+    "zh": "格子 %d 的道具被游戏编号为 %d——未做任何更改"
+  },
+  "168b20": {
+    "en": "%s takes two slots side by side, and there is no room for it at slot %d",
+    "zh": "%s 需要相邻的两个格子，而格子 %d 处没有这样的空间"
+  },
+  "168b68": {
+    "en": "%s takes two slots - take it from the item box instead",
+    "zh": "%s 需要两个格子——请改为从道具箱取出"
+  },
+  "168ba0": {
+    "en": "%s could not be made in the item box - nothing was changed",
+    "zh": "无法在道具箱中生成 %s——未做任何更改"
+  },
+  "168be0": {
+    "en": "the game did not empty slot %d (%s) - nothing was changed",
+    "zh": "游戏没有清空格子 %d（%s）——未做任何更改"
+  },
+  "168c1a": {
+    "en": "slot %d could not be written",
+    "zh": "无法写入格子 %d"
+  },
+  "168c37": {
+    "en": "slot %d: %s -> %s x%d",
+    "zh": "格子 %d：%s → %s x%d"
+  },
+  "168c4d": {
+    "en": "slot %d: %s -> (empty)",
+    "zh": "格子 %d：%s → （空）"
+  },
+  "168c68": {
+    "en": "the game did not put %s into slot %d (%s)%s",
+    "zh": "游戏没有把 %s 放入格子 %d（%s）%s"
+  },
+  "168ceb": {
+    "en": "that item box entry is gone",
+    "zh": "该道具箱格子已不存在"
+  },
+  "168d08": {
+    "en": "the item box changed before the take - nothing was moved",
+    "zh": "道具箱在取出前发生了变化——未移动任何东西"
+  },
+  "168d41": {
+    "en": "that item box entry is empty",
+    "zh": "该道具箱格子是空的"
+  },
+  "168d60": {
+    "en": "the game's inventory refused %s (%s) - see the log",
+    "zh": "游戏背包拒绝了 %s（%s）——见日志"
+  },
+  "168d98": {
+    "en": "the game did not put %s into slot %d - nothing was moved",
+    "zh": "游戏没有把 %s 放入格子 %d——未移动任何东西"
+  },
+  "168dd8": {
+    "en": "the item box entry could not be emptied - nothing was moved",
+    "zh": "无法清空该道具箱格子——未移动任何东西"
+  },
+  "168e18": {
+    "en": "took %s x%d from the item box into slot %d",
+    "zh": "已从道具箱取出 %s x%d 放入格子 %d"
+  },
+  "168e48": {
+    "en": "weapons need the game's own inventory functions, and they are not available: %s",
+    "zh": "武器需要调用游戏自身的背包函数，但它们不可用：%s"
+  },
+  "168e98": {
+    "en": "the item box is not readable right now",
+    "zh": "道具箱当前无法读取"
+  },
+  "168ec0": {
+    "en": "slot %d changed before the store - nothing was moved",
+    "zh": "格子 %d 在存入前发生了变化——未移动任何东西"
+  },
+  "168ef8": {
+    "en": "slot %d holds nothing to store",
+    "zh": "格子 %d 没有可存入的物品"
+  },
+  "168f18": {
+    "en": "slot %d's item is numbered %d by the game - nothing was moved",
+    "zh": "格子 %d 的道具被游戏编号为 %d——未移动任何东西"
+  },
+  "168f56": {
+    "en": "the item box is full",
+    "zh": "道具箱已满"
+  },
+  "168f70": {
+    "en": "the item box's %s could not be topped up - nothing was moved",
+    "zh": "无法补足道具箱中 %s 的堆叠——未移动任何东西"
+  },
+  "168fb0": {
+    "en": "slot %d could not be written - nothing was moved",
+    "zh": "无法写入格子 %d——未移动任何东西"
+  },
+  "168fe8": {
+    "en": "stored %d of %s x%d from slot %d on the item box's stacks - they have no room for the other %d",
+    "zh": "已将格子 %d 的 %s x%d 中的 %d 个并入道具箱堆叠——剩余 %d 个放不下"
+  },
+  "1690d8": {
+    "en": "the game did not empty slot %d (%s) - nothing was moved",
+    "zh": "游戏没有清空格子 %d（%s）——未移动任何东西"
+  },
+  "1691c0": {
+    "en": "stored %s x%d from slot %d in the item box: %d on the stacks it held, %d in a new stack",
+    "zh": "已将 %s x%d 从格子 %d 存入道具箱：%d 个并入原有堆叠，%d 个新建堆叠"
+  }
+}

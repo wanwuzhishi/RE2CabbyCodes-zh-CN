@@ -1,0 +1,899 @@
+{
+  "160943": {
+    "en": "One hit kills",
+    "zh": "一击必杀"
+  },
+  "160951": {
+    "en": "Infinite ammo",
+    "zh": "无限弹药"
+  },
+  "160978": {
+    "en": "Save without counting",
+    "zh": "存档不计次"
+  },
+  "181427": {
+    "en": "on",
+    "zh": "开"
+  },
+  "_comment": "RE2CabbyCodes 1.0.6 汉化词条 - 面板界面（背包 / 道具箱 / 记录 / 存档文件 / 作弊面板与提示）",
+  "16c578": {
+    "en": "Hidden record",
+    "zh": "隐藏记录"
+  },
+  "16c5bd": {
+    "en": "No data",
+    "zh": "无数据"
+  },
+  "16c5d4": {
+    "en": "a save",
+    "zh": "一个存档"
+  },
+  "184cc1": {
+    "en": "a save",
+    "zh": "一个存档"
+  },
+  "16c5e0": {
+    "en": "the item box has no empty entry, and a weapon is made in one",
+    "zh": "道具箱没有空格子，而武器需要在其中生成"
+  },
+  "16c620": {
+    "en": "the item box cannot be read right now, and a weapon is made in it",
+    "zh": "道具箱当前无法读取，而武器需要在其中生成"
+  },
+  "1687d8": {
+    "en": "the item box cannot be read right now, and a weapon is made in it",
+    "zh": "道具箱当前无法读取，而武器需要在其中生成"
+  },
+  "16c668": {
+    "en": "The game's own inventory functions do this, as they do at an item box.",
+    "zh": "这一步由游戏自身的背包函数完成，与在道具箱处相同。"
+  },
+  "16c6b0": {
+    "en": "This writes straight into the game's inventory.",
+    "zh": "这会直接写入游戏的背包。"
+  },
+  "16c6e0": {
+    "en": "Inventory",
+    "zh": "背包"
+  },
+  "16c6f0": {
+    "en": "The inventory of the character you are playing, straight from the game. Pick an item or a weapon and a count for a slot and press Apply; Store puts whatever the slot holds - weapons and two-slot items too - into the item box below.\n\nWeapons, the grenades and knives among them, go in and out through the game's own inventory functions, so one is armed and put away properly - which needs those functions and an empty item box entry to build it in. An item that takes two slots still comes in through the item box.\n\nA weapon comes with no parts fitted, full of the ammo the game says it takes. The infinite weapons are the game's rewards: unless the record that gives one is earned (the records panel), the game takes it back out of the inventory at the next load.\n\nA change shows in the game's inventory screen the next time it opens.",
+    "zh": "这是你当前操作角色的背包，直接取自游戏。为某个格子选择道具或武器并设定数量，然后按「应用」；「存入」会把该格子里的东西——包括武器和占两格的物品——放进下方的道具箱。\n\n武器（手榴弹和小刀也在其中）的取出与放入都走游戏自身的背包函数，因此会被正确地装备与收起——这需要那些函数可用，并要在道具箱里留一个空格子来生成它。占两格的物品仍要通过道具箱放入。\n\n武器生成时不带任何配件，并按游戏设定装满弹药。无限武器属于游戏奖励：除非对应的记录已达成（见记录面板），否则游戏会在下次读取存档时把它从背包中收回。\n\n更改会在游戏背包界面下次打开时显示出来。"
+  },
+  "16ca38": {
+    "en": "The inventory was not found in this build - see the log.",
+    "zh": "此版本中未找到背包——见日志。"
+  },
+  "16ca78": {
+    "en": "(the inventory cannot be read right now)",
+    "zh": "（当前无法读取背包）"
+  },
+  "16caa1": {
+    "en": "%d of %d slots used",
+    "zh": "已用 %d / %d 格"
+  },
+  "16cab5": {
+    "en": "(pause the game to change it)",
+    "zh": "（暂停游戏以更改）"
+  },
+  "16cad3": {
+    "en": "bag",
+    "zh": "背包"
+  },
+  "16cad7": {
+    "en": "slot",
+    "zh": "格子"
+  },
+  "1688e6": {
+    "en": "slot",
+    "zh": "格子"
+  },
+  "16cadc": {
+    "en": "item",
+    "zh": "道具"
+  },
+  "16cae1": {
+    "en": "count",
+    "zh": "数量"
+  },
+  "16caea": {
+    "en": "%s (under slot %d)",
+    "zh": "%s（位于格子 %d 下方）"
+  },
+  "16cb00": {
+    "en": "Slot %d is the second half of %s in slot %d, yet it holds this item as well. Store puts it in the item box.",
+    "zh": "格子 %d 是 %s（位于格子 %d）的后半格，但它同时装着这件物品。「存入」会把它放进道具箱。"
+  },
+  "16cb70": {
+    "en": "(second half of a two-slot item)",
+    "zh": "（双格物品的后半格）"
+  },
+  "16cb91": {
+    "en": "(kept blank by the game)",
+    "zh": "（游戏保留为空）"
+  },
+  "16cbb1": {
+    "en": "type to narrow the list",
+    "zh": "输入以筛选列表"
+  },
+  "16cbd2": {
+    "en": "(empty)",
+    "zh": "（空）"
+  },
+  "16871e": {
+    "en": "(empty)",
+    "zh": "（空）"
+  },
+  "16cbda": {
+    "en": "Weapons",
+    "zh": "武器"
+  },
+  "16cbe2": {
+    "en": "nothing matches \"%s\"",
+    "zh": "没有匹配「%s」的项"
+  },
+  "16cc00": {
+    "en": "How many of them (a knife: how much it has left)",
+    "zh": "数量（小刀：剩余耐久）"
+  },
+  "16cc31": {
+    "en": "Rounds loaded",
+    "zh": "已装填弹药"
+  },
+  "16cc3f": {
+    "en": "How many are in the slot",
+    "zh": "格子中的数量"
+  },
+  "16cc58": {
+    "en": "Apply",
+    "zh": "应用"
+  },
+  "16cc60": {
+    "en": "Throw the edit away",
+    "zh": "放弃本次修改"
+  },
+  "16cc74": {
+    "en": "Store",
+    "zh": "存入"
+  },
+  "16cc80": {
+    "en": "The item box cannot be read right now",
+    "zh": "道具箱当前无法读取"
+  },
+  "16cca6": {
+    "en": "The item box is full",
+    "zh": "道具箱已满"
+  },
+  "16ccc0": {
+    "en": "Weapons need the game's own inventory functions: %s",
+    "zh": "武器需要游戏自身的背包函数：%s"
+  },
+  "16ccf8": {
+    "en": "Put %s x%d on the item box's stacks of it",
+    "zh": "将 %s x%d 并入道具箱中它的堆叠"
+  },
+  "16cd28": {
+    "en": "Put %s x%d in the item box: %d on its stacks of it, %d in a new stack",
+    "zh": "将 %s x%d 存入道具箱：%d 个并入堆叠，%d 个另起一堆"
+  },
+  "16cd70": {
+    "en": "Put %d of %s x%d on the item box's stacks of it - the box has no room for the other %d",
+    "zh": "已将 %d 个 %s（共 x%d）并入道具箱堆叠——剩余 %d 个箱子放不下"
+  },
+  "16cdc7": {
+    "en": "Put %s x%d in the item box",
+    "zh": "将 %s x%d 存入道具箱"
+  },
+  "16cde2": {
+    "en": "apply this change?",
+    "zh": "应用此更改？"
+  },
+  "16cdf5": {
+    "en": "Set slot %d to %s x%d?",
+    "zh": "将格子 %d 设为 %s x%d？"
+  },
+  "16ce0c": {
+    "en": "Empty slot %d (%s x%d)?",
+    "zh": "清空格子 %d（%s x%d）？"
+  },
+  "16ce24": {
+    "en": "Cancel",
+    "zh": "取消"
+  },
+  "16cfa8": {
+    "en": "Records: The Ghost Survivors - Cabby Codes  v1.0.6###records_rogue",
+    "zh": "记录：幽灵生还者 - Cabby Codes  v1.0.6###records_rogue"
+  },
+  "16cff0": {
+    "en": "Records - Cabby Codes  v1.0.6###records",
+    "zh": "记录 - Cabby Codes  v1.0.6###records"
+  },
+  "16d018": {
+    "en": "Reading the records...",
+    "zh": "正在读取记录…"
+  },
+  "16d030": {
+    "en": "Switch a record on and it is complete, as if you had earned it: the game's records screen shows it (move its cursor to see a change), its accessory unlocks, and what earns it is written into your save the way the game writes it - a scenario cleared, a play count. \"Hell of a Sheriff\" and \"Got 'Em\" unlock their Steam achievements.\n\nSwitch one off and it is incomplete again: its accessory is locked (and taken off whoever wears it), and what earned it is taken back so you can earn it again - one Mr. Raccoon comes back, the play count drops just short, the special condition is forgotten. Nothing is locked away: No Way Out stays open. It opens once Forgotten Soldier, Runaway and No Time To Mourn are all cleared, so while it is open, \"Mission Complete?\", \"Reunited\" and \"Getting Over It\" are held off by the mod instead of un-clearing their scenario, and the no-training records leave their scenario cleared as a training clear.\n\nEvery change is saved at once.",
+    "zh": "开启某项记录后它即视为已达成，就像是你亲手取得的一样：游戏的记录界面会显示它（移动光标即可看到变化），其饰品会解锁，取得条件也会按游戏的方式写入你的存档——某个剧本通关、某个通关次数。「Hell of a Sheriff」和「Got 'Em」会解锁对应的 Steam 成就。\n\n关闭后它又变为未达成：其饰品会被锁上（并从佩戴者身上取下），取得条件也会被适当回退，以便你能重新取得——一只浣熊先生会恢复，通关次数会差一点点，特殊条件会被遗忘。不会有任何内容被永久锁死：「无路可逃」始终保持开放。它需要「Forgotten Soldier」「Runaway」和「No Time To Mourn」全部通关才会开放，因此在它开放期间，「Mission Complete?」「Reunited」和「Getting Over It」由本 mod 代为保持关闭，而不是真的取消其剧本通关；无训练类记录则按其剧本保持「训练通关」状态。\n\n每次更改都会立即保存。"
+  },
+  "16d3f8": {
+    "en": "Switch a record on and it is complete, as if you had earned it: the game's records screen shows it (move its cursor to see a change), its rewards unlock - game modes, costumes, infinite weapons, concept art, figures - and its progress is set the way the game sets it. A record with a Steam achievement unlocks it: Steam keeps those for good.\n\nSwitch one off and it is incomplete again: its progress drops just short of its goal and its rewards are locked again, unless another complete record gives the same one. The menus and the costume, figure and concept art screens follow the next time they open; the infinite weapons leave your item box and inventory the next time a game is loaded (and come into the item box when switched on). A costume you are wearing stays on until you change it.\n\nEvery change is saved at once.",
+    "zh": "开启某项记录后它即视为已达成，就像是你亲手取得的一样：游戏的记录界面会显示它（移动光标即可看到变化），其奖励会解锁——游戏模式、服装、无限武器、概念图、模型——进度也会按游戏的方式设定。带有 Steam 成就的记录会一并解锁成就：Steam 会永久保留它们。\n\n关闭后它又变为未达成：其进度会退到距目标一步之遥，奖励也会重新锁定，除非另有已完成的记录给同样的奖励。菜单以及服装、模型、概念图界面会在下次打开时生效；无限武器会在下次读取游戏时离开你的道具箱和背包（开启时则会进入道具箱）。你正穿着的服装会一直保留到你主动更换为止。\n\n每次更改都会立即保存。"
+  },
+  "16d730": {
+    "en": " of The Ghost Survivors",
+    "zh": " 幽灵生还者"
+  },
+  "16d748": {
+    "en": ", hidden ones too",
+    "zh": "，含隐藏记录"
+  },
+  "16d760": {
+    "en": "Their accessories are locked. While No Way Out is open, the three records for clearing its scenarios are held off instead, so it stays open.",
+    "zh": "它们的饰品被锁上。当「无路可逃」已开放时，改为由本 mod 保持那三项用于通关其剧本的记录处于关闭状态，从而让它继续开放。"
+  },
+  "16d7f0": {
+    "en": "Their rewards are locked again: game modes, costumes, figures, concept art, and the infinite weapons at the next load.",
+    "zh": "它们的奖励被重新锁定：游戏模式、服装、模型、概念图，以及下次读取时的无限武器。"
+  },
+  "16d867": {
+    "en": "Complete all",
+    "zh": "全部完成"
+  },
+  "16d874": {
+    "en": "Clear all",
+    "zh": "全部清除"
+  },
+  "16d895": {
+    "en": "Accessory",
+    "zh": "饰品"
+  },
+  "1812f1": {
+    "en": "Accessory",
+    "zh": "饰品"
+  },
+  "16d89f": {
+    "en": "Rewards",
+    "zh": "奖励"
+  },
+  "16d8a7": {
+    "en": "on",
+    "zh": "开"
+  },
+  "160a52": {
+    "en": "on",
+    "zh": "开"
+  },
+  "16d8aa": {
+    "en": "off",
+    "zh": "关"
+  },
+  "18142a": {
+    "en": "off",
+    "zh": "关"
+  },
+  "16d8ae": {
+    "en": "Ghost Survivors",
+    "zh": "幽灵生还者"
+  },
+  "16d8be": {
+    "en": "main",
+    "zh": "主线"
+  },
+  "16d8c3": {
+    "en": "Reward",
+    "zh": "奖励"
+  },
+  "1812ea": {
+    "en": "Reward",
+    "zh": "奖励"
+  },
+  "16d8ca": {
+    "en": " (held)",
+    "zh": "（已保留）"
+  },
+  "16d8d8": {
+    "en": "Save files - Cabby Codes  v1.0.6###savefiles",
+    "zh": "存档文件 - Cabby Codes  v1.0.6###savefiles"
+  },
+  "16d905": {
+    "en": "%d save%s in %d slots",
+    "zh": "%d 个存档%s，位于 %d 个槽位"
+  },
+  "16d920": {
+    "en": "The game's own save slots, as its Load Game list shows them: the auto-save and slots 1-20.\n\nDelete removes a save: the game deletes it the way it deletes anything from its saves, and the slot reads No Data from then on - your next save can go there. Copy to... puts a copy of a save into another slot, empty or not (a save already there is replaced). The copy is written where the game keeps its saves, in Steam Cloud, and loads like the original.\n\nBoth change your saves straight away, so neither can be undone - back up your saves first if in doubt (Steam/userdata/<your id>/883710/remote/win64_save/). The game's list beside this one is read again after each change; its cursor goes back to the last save you loaded.",
+    "zh": "游戏自身的存档槽位，与它的「读取游戏」列表一致：自动存档以及第 1–20 号槽位。\n\n「删除」会移除一个存档：由游戏按它删除存档的方式自行删除，之后该槽位显示为「无数据」——你的下次存档可以存到那里。「复制到…」会把存档副本放进另一个槽位，无论是否为空（原有存档会被覆盖）。副本写入游戏存放存档的位置（Steam 云），并和原存档一样可以读取。\n\n两者都会立即改动你的存档，因此都无法撤销——如有疑虑请先备份（Steam/userdata/<你的 ID>/883710/remote/win64_save/）。每次更改后，本面板旁边的游戏列表都会重新读取；其光标会回到你上次读取的存档。"
+  },
+  "16dbf0": {
+    "en": "The Load Game screen is not heard yet (see the log) - nothing can change.",
+    "zh": "尚未监听到「读取游戏」界面（见日志）——无法做任何更改。"
+  },
+  "16dc40": {
+    "en": "The game's list is not laid out as expected (see the log) - nothing can change.",
+    "zh": "游戏的列表布局与预期不符（见日志）——无法做任何更改。"
+  },
+  "16dc90": {
+    "en": "Steam's cloud storage was not found - saves can be deleted, not copied.",
+    "zh": "未找到 Steam 云存储——存档可以删除，但不能复制。"
+  },
+  "16dcd8": {
+    "en": "saves",
+    "zh": "存档"
+  },
+  "16dcde": {
+    "en": "Slot",
+    "zh": "槽位"
+  },
+  "16dce3": {
+    "en": "Save",
+    "zh": "存档"
+  },
+  "16dce8": {
+    "en": "Auto-save",
+    "zh": "自动存档"
+  },
+  "16dcf2": {
+    "en": "Slot %d",
+    "zh": "槽位 %d"
+  },
+  "16dd02": {
+    "en": "Copy to...",
+    "zh": "复制到…"
+  },
+  "16dd15": {
+    "en": "Delete",
+    "zh": "删除"
+  },
+  "16dd1c": {
+    "en": "Copy %s to:",
+    "zh": "将 %s 复制到："
+  },
+  "16dd30": {
+    "en": "Reading the game's list...",
+    "zh": "正在读取游戏的存档列表…"
+  },
+  "16dd50": {
+    "en": "The game is busy with its saves...",
+    "zh": "游戏正在处理存档…"
+  },
+  "16dd78": {
+    "en": "Changes cannot be undone.  F%d hides this panel.",
+    "zh": "更改无法撤销。按 F%d 隐藏此面板。"
+  },
+  "16dda9": {
+    "en": "delete this save?",
+    "zh": "删除此存档？"
+  },
+  "16ddbb": {
+    "en": "copy this save?",
+    "zh": "复制此存档？"
+  },
+  "16ddcb": {
+    "en": "Delete the save in %s?",
+    "zh": "删除 %s 中的存档？"
+  },
+  "16dde8": {
+    "en": "It is removed from your saves (and Steam Cloud) straight away, so this cannot be undone.",
+    "zh": "它会立即从你的存档（以及 Steam 云）中移除，因此无法撤销。"
+  },
+  "16de70": {
+    "en": "Copy %s over %s?",
+    "zh": "用 %s 覆盖 %s？"
+  },
+  "16de81": {
+    "en": "Copy %s to the empty %s?",
+    "zh": "将 %s 复制到空的 %s？"
+  },
+  "16dea0": {
+    "en": "The save in %s is replaced: %s",
+    "zh": "%s 中的存档将被替换：%s"
+  },
+  "16dec0": {
+    "en": "The copy is written to your saves (and Steam Cloud) straight away, so this cannot be undone.",
+    "zh": "副本会立即写入你的存档（以及 Steam 云），因此无法撤销。"
+  },
+  "16df1d": {
+    "en": "Copy",
+    "zh": "复制"
+  },
+  "16df54": {
+    "en": "%d of %d records complete",
+    "zh": "%d / %d 项记录已完成"
+  },
+  "16df6e": {
+    "en": "(and %d of %d hidden ones)",
+    "zh": "（另有 %d / %d 项隐藏记录）"
+  },
+  "16df89": {
+    "en": "filter",
+    "zh": "筛选"
+  },
+  "16dfa1": {
+    "en": "Hidden records",
+    "zh": "隐藏记录"
+  },
+  "16dfb0": {
+    "en": "Records the game keeps off its records screen - they give the infinite ATM-4 and Minigun, and The Tofu Survivor's other characters.",
+    "zh": "游戏未在记录界面上列出的记录——它们给出无限 ATM-4 和加特林机枪，以及豆腐生还者的其他角色。"
+  },
+  "16e038": {
+    "en": "The all-rewards unlock is active: every reward shows unlocked whatever the records say.",
+    "zh": "「解锁全部奖励」已生效：无论记录如何，所有奖励都显示为已解锁。"
+  },
+  "16e090": {
+    "en": "The game's achievement calls were not found - records switched on unlock none.",
+    "zh": "未找到游戏的成就调用——开启记录不会解锁任何成就。"
+  },
+  "16e0ec": {
+    "en": "Complete every record%s?",
+    "zh": "完成所有记录%s？"
+  },
+  "16e108": {
+    "en": "Every record that carries a Steam achievement unlocks it - Steam keeps them for good.",
+    "zh": "每一项带 Steam 成就的记录都会解锁成就——Steam 会永久保留它们。"
+  },
+  "16e160": {
+    "en": "%d Steam achievement(s) will be unlocked - Steam keeps them for good.",
+    "zh": "将解锁 %d 项 Steam 成就——Steam 会永久保留。"
+  },
+  "16e1a6": {
+    "en": "Clear every record%s?",
+    "zh": "清除所有记录%s？"
+  },
+  "16e1e2": {
+    "en": "Done",
+    "zh": "完成"
+  },
+  "16e1e7": {
+    "en": "Record",
+    "zh": "记录"
+  },
+  "16e1ee": {
+    "en": "Progress",
+    "zh": "进度"
+  },
+  "16e222": {
+    "en": "NEW",
+    "zh": "新"
+  },
+  "16e226": {
+    "en": "[achievement]",
+    "zh": "[成就]"
+  },
+  "16e234": {
+    "en": "(held off)",
+    "zh": "（已保留）"
+  },
+  "16e240": {
+    "en": "Switching this on unlocks its Steam achievement (for good).",
+    "zh": "开启后将解锁其 Steam 成就（永久生效）。"
+  },
+  "16e288": {
+    "en": "Another complete record gives this too: it stays unlocked while that one does.",
+    "zh": "另有已完成的记录也会给出此项：只要那条记录仍完成，它就保持解锁。"
+  },
+  "16e2df": {
+    "en": "%d (%d or less)",
+    "zh": "%d（%d 以内）"
+  },
+  "16e2ef": {
+    "en": "- (%d or less)",
+    "zh": "-（%d 以内）"
+  },
+  "16e2fe": {
+    "en": "Saving...",
+    "zh": "正在保存…"
+  },
+  "16e308": {
+    "en": "The game's list shows a change once you move its cursor.  F%d hides this panel.",
+    "zh": "移动游戏列表的光标后，更改才会显示出来。按 F%d 隐藏此面板。"
+  },
+  "16e358": {
+    "en": "Resident Evil 2 - Cabby Codes  v1.0.6",
+    "zh": "生化危机2 - Cabby Codes  v1.0.6"
+  },
+  "16e380": {
+    "en": "Opened outside the pause menu - F%d closes it",
+    "zh": "已在暂停菜单之外打开——按 F%d 关闭"
+  },
+  "16e3ae": {
+    "en": "Game hooks: %s",
+    "zh": "游戏挂钩：%s"
+  },
+  "16e3bd": {
+    "en": "Game tick: %s",
+    "zh": "游戏心跳：%s"
+  },
+  "16e3d0": {
+    "en": "Game tick: the game has not called the mod for %lu s",
+    "zh": "游戏心跳：游戏已有 %lu 秒未调用本 mod"
+  },
+  "16e408": {
+    "en": "Waiting for a game (start a new game or load a save)...",
+    "zh": "等待游戏（开始新游戏或读取存档）…"
+  },
+  "16e440": {
+    "en": "Cheats  (%d on)###cheats",
+    "zh": "作弊  （已开启 %d 项）###cheats"
+  },
+  "16e459": {
+    "en": "Player",
+    "zh": "玩家"
+  },
+  "16e460": {
+    "en": "Every hit is healed as it lands, and poison is cured at once. Hits still knock you about, and an attack that kills outright - a blow worth more than all your health, or being eaten - still does.",
+    "zh": "每次受击都会在命中的瞬间被治愈，中毒也会立即解除。受击仍会把你击退，而一击必死的攻击——伤害高于你全部生命值的一击，或被吞食——依然会杀死你。"
+  },
+  "16e523": {
+    "en": "God mode",
+    "zh": "上帝模式"
+  },
+  "16093a": {
+    "en": "God mode",
+    "zh": "上帝模式"
+  },
+  "16e52c": {
+    "en": "player not found",
+    "zh": "未找到玩家"
+  },
+  "16e53d": {
+    "en": "(%d / %d HP)",
+    "zh": "（%d / %d 生命值）"
+  },
+  "16e550": {
+    "en": "Any hit that does damage kills: the enemy's health drops to the hit's damage, so the game's own code kills it - deaths and drops as usual. Mr. X cannot be killed: the first hit puts him down on his knees. A plant burns up on any hit that does damage - no glands to shoot, no fire to bring, and no knocking it down first. An enemy in a scripted moment (climbing in through a window) dies when the moment ends. Enemies the game holds at their last point of health (Mr. X on a ladder) are left to it, and a few special hits (G2 clinging on, some breakable parts) do their normal damage.",
+    "zh": "任何造成伤害的攻击都会击杀目标：敌人的生命值会被削到该次伤害的数值，再由游戏自身的代码将其杀死——死亡与掉落照常。X先生无法被杀死：第一击会让他跪倒在地。植物类敌人被任何造成伤害的攻击命中都会烧毁——不必打腺体，不必带火，也不必先把它打趴下。处于脚本演出中的敌人（例如翻窗而入的丧尸）会在演出结束时死亡。被游戏锁定在最后一点生命值的敌人（例如在梯子上的X先生）不做处理，少数特殊攻击（G2 的攀附、某些可破坏部位）仍造成正常伤害。"
+  },
+  "16e798": {
+    "en": "One hit kills",
+    "zh": "一击必杀"
+  },
+  "16e7a6": {
+    "en": "enemy list not found",
+    "zh": "未找到敌人列表"
+  },
+  "16e7bb": {
+    "en": "(%d enemies)",
+    "zh": "（%d 个敌人）"
+  },
+  "16e7c8": {
+    "en": "Firing uses no ammo: the gun in your hands keeps its loaded rounds, the flamethrower and the spark shot their charge. Pickups and reloads still work as usual; knives and grenades are left alone.",
+    "zh": "开火不消耗弹药：手中的枪保留已装填的子弹，火焰喷射器和电击枪保留充能。拾取和装填照常进行；小刀和手榴弹不受影响。"
+  },
+  "16e88b": {
+    "en": "Infinite ammo",
+    "zh": "无限弹药"
+  },
+  "16e899": {
+    "en": "inventory not found",
+    "zh": "未找到背包"
+  },
+  "16e8b0": {
+    "en": "Knives never wear down: the knife you hold is kept full through every hit, so it never breaks (a worn one is made full when this goes on). A knife used to break free of a grab still stays in the enemy until you pick it up. Knives are the only things in the game that wear.",
+    "zh": "小刀永不损耗：你手中的小刀在每次攻击后都会保持满耐久，因此永不损坏（开启时会把已磨损的小刀补满）。用于挣脱抓取而刺出的小刀仍会留在敌人身上，直到你把它捡回。小刀是游戏中唯一会损耗的物品。"
+  },
+  "16e9c1": {
+    "en": "No durability loss",
+    "zh": "小刀不磨损"
+  },
+  "1609b6": {
+    "en": "No durability loss",
+    "zh": "小刀不磨损"
+  },
+  "16e9d4": {
+    "en": "knives not found",
+    "zh": "未找到小刀"
+  },
+  "162bfb": {
+    "en": "knives not found",
+    "zh": "未找到小刀"
+  },
+  "16e9e8": {
+    "en": "Boarding up a window takes no Wooden Boards: the window is boarded as usual and your boards stay in the inventory. You still need to carry boards to board a window. Nothing else is kept - other items are used up as usual.",
+    "zh": "封窗户不消耗木板：窗户照常被封上，而你的木板仍留在背包里。你仍需随身携带木板才能封窗。除此之外没有其他保护——其它物品照常消耗。"
+  },
+  "16eac6": {
+    "en": "Infinite wooden boards",
+    "zh": "无限木板"
+  },
+  "1609c9": {
+    "en": "Infinite wooden boards",
+    "zh": "无限木板"
+  },
+  "16eadd": {
+    "en": "use-item triggers not found",
+    "zh": "未找到道具使用触发器"
+  },
+  "162c68": {
+    "en": "use-item triggers not found",
+    "zh": "未找到道具使用触发器"
+  },
+  "16eaf9": {
+    "en": "(%d board%s)",
+    "zh": "（%d 块木板%s）"
+  },
+  "16eb06": {
+    "en": "Saves & time",
+    "zh": "存档与时间"
+  },
+  "16eb18": {
+    "en": "Hardcore: typewriters save without asking for an ink ribbon - the typewriter goes straight to the save menu, as it does on Standard. If you carry ribbons, the save still uses one: the game's save menu takes it on Hardcore.",
+    "zh": "专家难度下：在打字机存档不再要求色带——打字机会直接进入存档菜单，如同标准难度。若你身上带着色带，存档仍会消耗一条：专家难度下游戏的存档菜单会收取它。"
+  },
+  "16ebf7": {
+    "en": "Save without ink ribbons",
+    "zh": "免色带存档"
+  },
+  "16095f": {
+    "en": "Save without ink ribbons",
+    "zh": "免色带存档"
+  },
+  "16ec10": {
+    "en": "typewriters not understood",
+    "zh": "未能解析打字机"
+  },
+  "162c0c": {
+    "en": "typewriters not understood",
+    "zh": "未能解析打字机"
+  },
+  "16ec2b": {
+    "en": "(%d ribbon%s)",
+    "zh": "（%d 条色带%s）"
+  },
+  "16ec40": {
+    "en": "Saves add nothing to the save count the results screen shows and ranks you on: each save records the count it had when this went on (or the one set below).",
+    "zh": "存档不会增加结算画面所显示、并用于评级的存档次数：每次存档记录的都是开启本项时的次数（或下方设定的数值）。"
+  },
+  "16ecdc": {
+    "en": "Save without counting",
+    "zh": "存档不计次"
+  },
+  "16ecf2": {
+    "en": "records not found",
+    "zh": "未找到记录"
+  },
+  "16ed04": {
+    "en": "Saves: %d",
+    "zh": "存档数：%d"
+  },
+  "16ed16": {
+    "en": "Apply##saves",
+    "zh": "应用##saves"
+  },
+  "16ed38": {
+    "en": "The clear time the results screen ranks you on stops where it is: the time your saves and your clear record stops counting while this is on, in the main game and in The Ghost Survivors, The 4th Survivor and The Tofu Survivor. The Ghost Survivors' run timer on screen stands still with it. The game's own clock keeps running underneath - the enemies' timers are on it, and stopping it leaves them standing about - so the pause menu's own play time keeps counting. The figure below is the one that will be recorded.",
+    "zh": "结算画面用于评级的通关时间会停在当前数值：开启本项期间，存档与通关记录中的时间不再累计，在主游戏以及幽灵生还者、第四生还者、豆腐生还者中均如此。屏幕上幽灵生还者的计时器也会随之停住。游戏自身的时钟仍在底层继续运行——敌人的计时器依靠它，停下它会让敌人呆立不动——因此暂停菜单里的游戏时间仍会继续累计。下方显示的数值才是会被记录的那个。"
+  },
+  "16ef3a": {
+    "en": "Freeze play time",
+    "zh": "冻结游戏时间"
+  },
+  "16098e": {
+    "en": "Freeze play time",
+    "zh": "冻结游戏时间"
+  },
+  "16ef4b": {
+    "en": "clock not found",
+    "zh": "未找到时钟"
+  },
+  "16ef5b": {
+    "en": "Play time: %s%s",
+    "zh": "游戏时间：%s%s"
+  },
+  "16ef6f": {
+    "en": "Set##pt",
+    "zh": "设置##pt"
+  },
+  "16ef78": {
+    "en": "Stops the on-screen countdown (the facility's self-destruct) where it is: its frame runs as usual - alarms, clearing it by getting out - but the time does not go down.",
+    "zh": "把屏幕上的倒计时（设施的自我毁灭）停在当前数值：其框架照常运行——警报、靠逃出解除——但时间不再减少。"
+  },
+  "16f020": {
+    "en": "Freeze countdown timer",
+    "zh": "冻结倒计时"
+  },
+  "16099f": {
+    "en": "Freeze countdown timer",
+    "zh": "冻结倒计时"
+  },
+  "16f037": {
+    "en": "countdown not found",
+    "zh": "未找到倒计时"
+  },
+  "162c54": {
+    "en": "countdown not found",
+    "zh": "未找到倒计时"
+  },
+  "16f04b": {
+    "en": "Records",
+    "zh": "记录"
+  },
+  "16f058": {
+    "en": "Opening the item box is not counted, for the record for finishing the game without opening it: the game's count goes to 0 when this goes on and stays there while it is on - in your saves too. Turned off, openings count again from there.",
+    "zh": "打开道具箱不计入次数，用于「不打开道具箱通关」的记录：开启本项时游戏的计数归 0，并在开启期间一直保持——你的存档中也是如此。关闭后，从该数值起重新累计。"
+  },
+  "16f145": {
+    "en": "Item box without counting",
+    "zh": "开箱不计次"
+  },
+  "1609e0": {
+    "en": "Item box without counting",
+    "zh": "开箱不计次"
+  },
+  "16f15f": {
+    "en": "item box count not found",
+    "zh": "未找到开箱计数"
+  },
+  "162c84": {
+    "en": "item box count not found",
+    "zh": "未找到开箱计数"
+  },
+  "16f178": {
+    "en": "(opened once)",
+    "zh": "（已打开 1 次）"
+  },
+  "16f186": {
+    "en": "(opened %d times)",
+    "zh": "（已打开 %d 次）"
+  },
+  "16f198": {
+    "en": "Using a recovery item (a first aid spray, a herb or a mix) is not counted, for the record for finishing the game without using one: the game's count goes to 0 when this goes on and stays there while it is on - in your saves too. The item still heals you and is used up. Turned off, uses count again from there.",
+    "zh": "使用恢复类物品（急救喷雾、草药或调和品）不计入次数，用于「不使用恢复物品通关」的记录：开启本项时游戏的计数归 0，并在开启期间一直保持——你的存档中也是如此。物品仍会治疗你并被消耗。关闭后，从该数值起重新累计。"
+  },
+  "16f2d0": {
+    "en": "Recovery items without counting",
+    "zh": "用药不计次"
+  },
+  "160a00": {
+    "en": "Recovery items without counting",
+    "zh": "用药不计次"
+  },
+  "16f2f0": {
+    "en": "recovery item count not found",
+    "zh": "未找到用药计数"
+  },
+  "162bc8": {
+    "en": "recovery item count not found",
+    "zh": "未找到用药计数"
+  },
+  "16f30e": {
+    "en": "(%d used)",
+    "zh": "（已使用 %d 次）"
+  },
+  "16f318": {
+    "en": "The game counts your steps, for the record for finishing the game in %s steps or fewer. This stops the count where it is: steps you take while it is on are not counted - in your saves too. Set a count below and it stays at that one.",
+    "zh": "游戏会计数你的步数，用于「在 %s 步以内通关」的记录。本项会把计数停在当前数值：开启期间走的步数不再累计——你的存档中也是如此。可在下方设定数值，计数会保持在该数值。"
+  },
+  "16f401": {
+    "en": "Freeze step count",
+    "zh": "冻结步数"
+  },
+  "160a20": {
+    "en": "Freeze step count",
+    "zh": "冻结步数"
+  },
+  "16f413": {
+    "en": "step count not found",
+    "zh": "未找到步数"
+  },
+  "162be6": {
+    "en": "step count not found",
+    "zh": "未找到步数"
+  },
+  "16f428": {
+    "en": "Steps: %d",
+    "zh": "步数：%d"
+  },
+  "16f43a": {
+    "en": "Apply##steps",
+    "zh": "应用##steps"
+  },
+  "16f447": {
+    "en": "(the record: %d or fewer)",
+    "zh": "（记录要求：%d 以内）"
+  },
+  "16f461": {
+    "en": "Difficulty",
+    "zh": "难度"
+  },
+  "16f470": {
+    "en": "Switches the game you are playing between Assisted, Standard and Hardcore on the spot - nothing is reloaded. It is the game's own switch, the one a new game and every load make. What the game checks as it goes follows at once: Assisted's aim assist and slow healing, the typewriters' ink ribbons on Hardcore, and the game's rank, held to the new difficulty's range from its next change. What the game set up for the difficulty when it loaded the area you are in stays as it is until that area loads again.\n\nYour next save records the new difficulty, and loading a save made before the switch brings that save's difficulty back. A clear counts for the difficulty you finish on. If you took the game over screen's offer to continue on Assisted, switching to Standard or Hardcore ends it (the game would otherwise put every load back on Assisted until you return to the title).",
+    "zh": "立即把当前游戏在辅助、标准和专家之间切换——不会重新读取任何内容。这是游戏自身的切换，新游戏和每次读取都会执行同一个。游戏随后的检查会立刻跟上：辅助难度的辅助瞄准与缓慢治疗、专家难度下打字机的色带，以及游戏的评级（从下次变化起被限制在新难度的范围内）。游戏在你进入当前区域时按当时难度所做的设定，会保持到你再次进入该区域为止。\n\n你的下次存档会记录新难度，而读取切换之前保存的存档会带回那个存档的难度。通关按你通关时的难度计算。如果你接受了游戏结束画面「以辅助难度继续」的提议，切换到标准或专家会终止它（否则游戏会在回到标题画面之前，每次读取都回到辅助难度）。"
+  },
+  "16f809": {
+    "en": "(pause the game to switch)",
+    "zh": "（暂停游戏以切换）"
+  },
+  "16f824": {
+    "en": "Item box",
+    "zh": "道具箱"
+  },
+  "16f830": {
+    "en": "The game's own item box - the one every item box in the game opens, saved with your game. Take puts an item into the first free slot of the inventory (an item that takes two slots into the first two free slots side by side), x throws it away, and Store beside an inventory slot puts one in.\n\nAnything moves, weapons included: Take and Store run the game's own inventory functions, so a weapon is armed or put away, and unequipped first, just as at a real item box. Store stacks like the game's box: ammo and the other items the game stacks top up the stacks the box already holds, up to the game's own maximum (60 handgun rounds a stack), and the rest becomes a new stack. Take moves a stack whole.\n\nThe list is filed under five banks and sorted by name; # is the entry's place in the game's box.",
+    "zh": "游戏自身的道具箱——游戏中每个道具箱打开的都是它，并随你的存档保存。「取出」把物品放进背包最前面的空格子（占两格的物品放最前面的两个相邻空格子），「×」将其丢弃，而背包格子旁的「存入」则把物品放进去。\n\n任何东西都能移动，武器也不例外：「取出」和「存入」调用游戏自身的背包函数，因此武器会被正确装备或收起，并像在真正的道具箱处那样先卸下。存入的堆叠方式与游戏的箱子一致：弹药及其它可以堆叠的物品会补充箱中已有的堆叠，上限为游戏自身的最大值（手枪子弹每堆 60 发），超出的部分另起一堆。「取出」会整堆移动。\n\n列表分为五类并按名称排序；# 是该条目在游戏道具箱中的位置。"
+  },
+  "16fb50": {
+    "en": "The item box was not found in this build - see the log.",
+    "zh": "此版本中未找到道具箱——见日志。"
+  },
+  "16fb88": {
+    "en": "(the item box cannot be read right now)",
+    "zh": "（当前无法读取道具箱）"
+  },
+  "16fbb0": {
+    "en": "%d item%s",
+    "zh": "%d 件道具%s"
+  },
+  "16fbba": {
+    "en": "banks",
+    "zh": "分类"
+  },
+  "16fbdc": {
+    "en": "Clear",
+    "zh": "清除"
+  },
+  "16fbe2": {
+    "en": "%d of %d shown",
+    "zh": "显示 %d / %d"
+  },
+  "16fbf7": {
+    "en": "The item box is empty.",
+    "zh": "道具箱是空的。"
+  },
+  "16fc10": {
+    "en": "Nothing in the box is filed under %s.",
+    "zh": "道具箱中没有归类为 %s 的物品。"
+  },
+  "16fc36": {
+    "en": "nothing under %s matches \"%s\"",
+    "zh": "%s 下没有匹配「%s」的项"
+  },
+  "16fc56": {
+    "en": "Take",
+    "zh": "取出"
+  },
+  "16fc5b": {
+    "en": "Pause the game to take it",
+    "zh": "暂停游戏以取出"
+  },
+  "16fc78": {
+    "en": "It takes two slots side by side, and the inventory has no such room",
+    "zh": "它需要相邻的两个格子，背包没有这样的空间"
+  },
+  "16fcc0": {
+    "en": "The inventory has no free slot",
+    "zh": "背包没有空格子"
+  },
+  "16fce0": {
+    "en": "Put %s into the first two free slots side by side",
+    "zh": "将 %s 放入最前面的两个相邻空格子"
+  },
+  "16fd18": {
+    "en": "Put %s x%d into the first free slot",
+    "zh": "将 %s x%d 放入第一个空格子"
+  },
+  "16fd3c": {
+    "en": "Throw this item away",
+    "zh": "丢弃此道具"
+  },
+  "16fd51": {
+    "en": "throw item away?",
+    "zh": "丢弃道具？"
+  },
+  "16fd68": {
+    "en": "Throw away %s x%d from the item box?",
+    "zh": "从道具箱丢弃 %s x%d？"
+  },
+  "16fd90": {
+    "en": "It is gone for good once the game is saved.",
+    "zh": "游戏保存后它将永久消失。"
+  },
+  "16fdbc": {
+    "en": "Throw away",
+    "zh": "丢弃"
+  },
+  "16fdc7": {
+    "en": "F%d hides this panel",
+    "zh": "按 F%d 隐藏此面板"
+  }
+}
