@@ -7,6 +7,9 @@
 > 本仓库**只包含工具和译文**，不包含任何 DLL。想直接用的请到 [Releases](../../releases) 下载现成的 `steam_api64.dll`。
 > This repository contains **only the patcher and the translation tables** — no binaries. Grab a ready-to-use `steam_api64.dll` from [Releases](../../releases).
 
+> 项目介绍与安装说明：[万物之时博客 · RE2 CabbyCodes 汉化版](https://blog.126330.xyz/posts/a985f402/)  
+> 博客主页：<https://blog.126330.xyz>
+
 ---
 
 ## English
